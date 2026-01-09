@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Yasmeen Abuhasirah
 
 **PhD Candidate in Cognitive Computing (Informatique cognitive)**  
