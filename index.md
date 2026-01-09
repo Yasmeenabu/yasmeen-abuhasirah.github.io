@@ -10,7 +10,7 @@ Université du Québec à Montréal (UQAM), Canada
 ---
 
 ## About
-I am a PhD candidate in Cognitive Computing at the Université du Québec à Montréal (UQAM). My research lies at the intersection of artificial intelligence, cognitive science, and legal analysis, with a focus on building transparent and explainable AI systems for analyzing privacy policies—particularly in the context of children’s mobile games.
+I am a PhD candidate in Cognitive Computing at the Université du Québec à Montréal (UQAM). My research lies at the intersection of artificial intelligence, cognitive science, and legal analysis, with a focus on building transparent and explainable AI systems for analyzing privacy policies, particularly in the context of children’s mobile games.
 
 My doctoral work combines symbolic approaches (ontologies and rule-based reasoning) with data-driven methods (natural language processing and large language models) to support legally grounded and cognitively informed interpretations of complex regulatory texts.
 
@@ -33,7 +33,7 @@ I am a recipient of the **Fonds de recherche du Québec (FRQ) – Science en exi
 
 
 **Description:**  
-This research aims to develop AI-based methods to analyze the compliance of Terms of Use and Privacy Policies of children’s mobile games with privacy regulations in Québec, Canada, and the United States (e.g., COPPA). The project proposes a two-layer ontology—combining a normative core ontology with a domain-specific privacy ontology—supported by NLP and large language models to enable transparent, explainable, and legally grounded analysis.
+This research aims to develop AI-based methods to analyze the compliance of Terms of Use and Privacy Policies of children’s mobile games with privacy regulations in Québec, Canada, and the United States (e.g., COPPA). The project proposes a two-layer ontology, combining a normative core ontology with a domain-specific privacy ontology, supported by NLP and large language models to enable transparent, explainable, and legally grounded analysis.
 
 ---
 
